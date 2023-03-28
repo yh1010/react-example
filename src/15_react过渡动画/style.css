@@ -1,0 +1,29 @@
+/* 初次进入动画(页面刷新) */
+.yyy-appear {
+  transform: translateX(-150px);
+}
+
+.yyy-appear-active {
+  transform: translateX(0);
+  transition: transform 2s ease;
+}
+
+/* 进入动画 */
+.yyy-enter {
+  opacity: 0;
+}
+
+.yyy-enter-active {
+  opacity: 1;
+  transition: opacity 2s ease;
+}
+
+/* 离开动画 */
+.yyy-exit {
+  opacity: 1;
+}
+
+.yyy-exit-active {
+  opacity: 0;
+  transition: opacity 2s ease;
+}

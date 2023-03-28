@@ -1,0 +1,253 @@
+{
+  "Content": {
+    "水泵/西门子设备": {
+      "__startTime": "2023-02-16 08:23:24",
+      "__name": "西门子设备",
+      "__description": "此设备安装在角落，编号0001",
+      "__config": "[SiemensS200Smart] [水泵/西门子设备] [192.168.2.1:102]",
+      "__success": 7101,
+      "__failed": 5267,
+      "__activeTime": "2023-02-16 10:22:21",
+      "__captureSpendTime": 2077,
+      "__deviceStatus": false,
+      "__requestEnable": true,
+      "__onlineTime": "2023-02-16 09:11:56",
+      "__failedMsg": "连接 192.168.2.1:102 失败，超时时间为 2000 ms",
+      "__alarmCount": {
+        "AlarmCount": 0,
+        "Hint": 0,
+        "Warn": 0,
+        "Error": 0,
+        "Fatal": 0
+      },
+      "SB_01_SD": 44898,
+      "__deviceMessage": "Request [SB_01_SD] failed: 连接 192.168.2.1:102 失败，超时时间为 2000 ms"
+    },
+    "水泵/1-西门子设备": {
+      "__startTime": "2023-02-16 08:23:24",
+      "__name": "1-西门子设备",
+      "__description": "此设备安装在角落，编号0001",
+      "__config": "[SiemensS200Smart] [水泵/1-西门子设备] [192.168.2.1:102]",
+      "__success": 35505,
+      "__failed": 5395,
+      "__activeTime": "2023-02-16 10:22:20",
+      "__captureSpendTime": 10488,
+      "__deviceStatus": false,
+      "__requestEnable": true,
+      "__onlineTime": "2023-02-16 09:11:56",
+      "__failedMsg": "连接 192.168.2.1:102 失败，超时时间为 2000 ms",
+      "__alarmCount": {
+        "AlarmCount": 0,
+        "Hint": 0,
+        "Warn": 0,
+        "Error": 0,
+        "Fatal": 0
+      },
+      "A1_P1": 0.0,
+      "__deviceMessage": "Request [A1_P1] failed: 连接 192.168.2.1:102 失败，超时时间为 2000 ms"
+    },
+    "水泵/2-西门子设备": {
+      "__startTime": "2023-02-16 08:23:24",
+      "__name": "2-西门子设备",
+      "__description": "此设备安装在角落，编号0001",
+      "__config": "[SiemensS200Smart] [水泵/2-西门子设备] [192.168.2.1:102]",
+      "__success": 35541,
+      "__failed": 5354,
+      "__activeTime": "2023-02-16 10:22:20",
+      "__captureSpendTime": 10488,
+      "__deviceStatus": false,
+      "__requestEnable": true,
+      "__onlineTime": "2023-02-16 09:11:48",
+      "__failedMsg": "连接 192.168.2.1:102 失败，超时时间为 2000 ms",
+      "__alarmCount": {
+        "AlarmCount": 0,
+        "Hint": 0,
+        "Warn": 0,
+        "Error": 0,
+        "Fatal": 0
+      },
+      "A1_P1": 0.0,
+      "__deviceMessage": "Request [A1_P1] failed: 连接 192.168.2.1:102 失败，超时时间为 2000 ms"
+    },
+    "水泵/3-西门子设备": {
+      "__startTime": "2023-02-16 08:23:24",
+      "__name": "3-西门子设备",
+      "__description": "此设备安装在角落，编号0001",
+      "__config": "[SiemensS200Smart] [水泵/3-西门子设备] [192.168.2.1:102]",
+      "__success": 35541,
+      "__failed": 5354,
+      "__activeTime": "2023-02-16 10:22:20",
+      "__captureSpendTime": 10488,
+      "__deviceStatus": false,
+      "__requestEnable": true,
+      "__onlineTime": "2023-02-16 09:11:48",
+      "__failedMsg": "连接 192.168.2.1:102 失败，超时时间为 2000 ms",
+      "__alarmCount": {
+        "AlarmCount": 0,
+        "Hint": 0,
+        "Warn": 0,
+        "Error": 0,
+        "Fatal": 0
+      },
+      "A1_P1": 0.0,
+      "__deviceMessage": "Request [A1_P1] failed: 连接 192.168.2.1:102 失败，超时时间为 2000 ms"
+    },
+    "水泵/4-西门子设备": {
+      "__startTime": "2023-02-16 08:23:24",
+      "__name": "4-西门子设备",
+      "__description": "此设备安装在角落，编号0001",
+      "__config": "[SiemensS200Smart] [水泵/4-西门子设备] [192.168.2.1:102]",
+      "__success": 35500,
+      "__failed": 5390,
+      "__activeTime": "2023-02-16 10:22:20",
+      "__captureSpendTime": 10488,
+      "__deviceStatus": false,
+      "__requestEnable": true,
+      "__onlineTime": "2023-02-16 09:11:56",
+      "__failedMsg": "连接 192.168.2.1:102 失败，超时时间为 2000 ms",
+      "__alarmCount": {
+        "AlarmCount": 0,
+        "Hint": 0,
+        "Warn": 0,
+        "Error": 0,
+        "Fatal": 0
+      },
+      "A1_P1": 0.0,
+      "__deviceMessage": "Request [A1_P1] failed: 连接 192.168.2.1:102 失败，超时时间为 2000 ms"
+    },
+    "水泵/5-西门子设备": {
+      "__startTime": "2023-02-16 08:23:24",
+      "__name": "5-西门子设备",
+      "__description": "此设备安装在角落，编号0001",
+      "__config": "[SiemensS200Smart] [水泵/5-西门子设备] [192.168.2.1:102]",
+      "__success": 35500,
+      "__failed": 5390,
+      "__activeTime": "2023-02-16 10:22:20",
+      "__captureSpendTime": 10488,
+      "__deviceStatus": false,
+      "__requestEnable": true,
+      "__onlineTime": "2023-02-16 09:11:56",
+      "__failedMsg": "连接 192.168.2.1:102 失败，超时时间为 2000 ms",
+      "__alarmCount": {
+        "AlarmCount": 0,
+        "Hint": 0,
+        "Warn": 0,
+        "Error": 0,
+        "Fatal": 0
+      },
+      "A1_P1": 0.0,
+      "__deviceMessage": "Request [A1_P1] failed: 连接 192.168.2.1:102 失败，超时时间为 2000 ms"
+    },
+    "水泵/ModbusTcp": {
+      "__startTime": "2023-02-16 08:23:24",
+      "__name": "ModbusTcp",
+      "__description": "此设备安装在角落，编号0001",
+      "__displayName": "test1",
+      "__config": "[ModbusTcp] [水泵/ModbusTcp] [127.0.0.1:502]",
+      "__success": 32066,
+      "__failed": 990,
+      "__activeTime": "2023-02-16 13:24:16",
+      "__captureSpendTime": 47,
+      "__deviceStatus": true,
+      "__requestEnable": true,
+      "__onlineTime": "2023-02-16 08:57:05",
+      "__failedMsg": "",
+      "__alarmCount": {
+        "AlarmCount": 0,
+        "Hint": 0,
+        "Warn": 0,
+        "Error": 0,
+        "Fatal": 0
+      },
+      "数据名字": 0,
+      "数据名字1": 0
+    },
+    "西门子设备": {
+      "__startTime": "2023-02-16 08:23:24",
+      "__name": "西门子设备",
+      "__description": "此设备安装在角落，编号0001",
+      "__displayName": "test2",
+      "__config": "[SiemensS1200] [西门子设备] [192.168.16.74:102]",
+      "__success": 0,
+      "__failed": 18050,
+      "__activeTime": "2023-02-16 08:23:24",
+      "__captureSpendTime": 0,
+      "__deviceStatus": false,
+      "__requestEnable": true,
+      "__onlineTime": "2023-02-16 08:23:24",
+      "__failedMsg": "Index and length must refer to a location within the string. (Parameter 'length')",
+      "__alarmCount": {
+        "AlarmCount": 0,
+        "Hint": 0,
+        "Warn": 0,
+        "Error": 0,
+        "Fatal": 0
+      }
+    },
+    "__status": {
+      "__name": "Edge:84339FF71BB0",
+      "__version": "1.5.0",
+      "__startTime": "2023-02-16 08:23:24",
+      "__standbyStatus": "",
+      "__activeTime": "2023-02-16 13:24:16",
+      "__deviceOnlineCount": 1,
+      "__deviceStopCount": 0,
+      "__timeDeviation": 0.0,
+      "__ServerOnline": 1,
+      "__timeout": 6,
+      "__ramUse": 51101696,
+      "__deviceList": [
+        {
+          "__name": "水泵/西门子设备",
+          "__deviceStatus": false,
+          "__threadActive": true
+        },
+        {
+          "__name": "水泵/1-西门子设备",
+          "__deviceStatus": false,
+          "__threadActive": true
+        },
+        {
+          "__name": "水泵/2-西门子设备",
+          "__deviceStatus": false,
+          "__threadActive": true
+        },
+        {
+          "__name": "水泵/3-西门子设备",
+          "__deviceStatus": false,
+          "__threadActive": true
+        },
+        {
+          "__name": "水泵/4-西门子设备",
+          "__deviceStatus": false,
+          "__threadActive": true
+        },
+        {
+          "__name": "水泵/5-西门子设备",
+          "__deviceStatus": false,
+          "__threadActive": true
+        },
+        {
+          "__name": "水泵/ModbusTcp",
+          "__deviceStatus": true,
+          "__threadActive": true
+        },
+        {
+          "__name": "西门子设备",
+          "__deviceStatus": false,
+          "__threadActive": true
+        }
+      ],
+      "__deviceCount": 8,
+      "__build": "X64",
+      "__osInfo": "Microsoft Windows 10.0.19044",
+      "__clr": ".NET 6.0.11",
+      "__company": "广州欧佳机电技术有限公司",
+      "__computerInfo": "MS-IMHVVPLODPXQ",
+      "__uniqueId": "Win22db21a30d014a2dbfd4cfc0a27fa8d47276"
+    }
+  },
+  "IsSuccess": true,
+  "Message": "成功",
+  "ErrorCode": 0
+}

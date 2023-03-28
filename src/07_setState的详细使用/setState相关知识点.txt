@@ -1,0 +1,14 @@
+1.setState为什么设计成异步的？
+  a.可以显著提升性能,
+    如果每次调用setState都进行一次更新, 那么render函数会频繁调用,界面会重新渲染,效率低下
+  b.如果同步更新了state, 但是还没有执行render函数,那么state和props不能保持同步  
+
+2.setState是同步的还是异步的？
+  分三种情况：
+    a.在组件生命周期或react合成事件中,setState是异步的
+    b.在setTimeout或者原生dom事件中,setState是同步的
+    c.react18以后,默认所有操作都是异步处理
+  react18以后,setState如何变成同步的？
+    使用flushSync(() => {this.setState({
+      // 设置state操作
+    })});

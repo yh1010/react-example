@@ -1,0 +1,5 @@
+作用:
+1.识别不安全的生命周期
+2.使用过时的ref API
+3.检测意外的副作用
+4.检测过时的findDOMNode API、context API
